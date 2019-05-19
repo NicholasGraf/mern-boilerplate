@@ -20,6 +20,7 @@
   "homepage": "https://github.com/NicholasGraf/mern-boilerplate#readme",
   "dependencies": {
     "express": "^4.17.0",
+    "tar": "^4.4.8",
     "webpack": "^4.31.0",
     "webpack-dev-server": "^3.4.1"
   },
